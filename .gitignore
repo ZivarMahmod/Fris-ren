@@ -1,0 +1,13 @@
+# Local screenshots / verification artifacts
+.playwright-mcp/
+*.png
+*.jpg
+!assets/**/*.png
+!assets/**/*.jpg
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
